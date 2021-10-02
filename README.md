@@ -1,6 +1,7 @@
 # SSOO-tarea01
 
 Autor: Javier Garin Roman
+
 Correo: javier.garin@alumnos.uv.cl
 
 El archivo script.sh contiene el script bash que ejecuta lo solicitado por el profesor en la ultima pregunta de la Tarea 1
